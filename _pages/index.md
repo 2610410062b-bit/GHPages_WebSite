@@ -48,3 +48,5 @@ permalink: /
 
 ![image](/GHPages_WebSite/assets/images/logo-150.png)
 # 米津玄師
+徳島県出身
+[リンク]_https://www.youtube.com/watch?v=LmZD-TU96q4
