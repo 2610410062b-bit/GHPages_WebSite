@@ -52,4 +52,4 @@ permalink: /
 
 [リンク](https://www.youtube.com/watch?v=LmZD-TU96q4)
 
-![image](/GHPages_WebSite/assets/images/body_171511.png)
+![image](/GHPages_WebSite/assets/images/https:/)
