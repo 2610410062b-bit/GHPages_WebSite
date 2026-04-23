@@ -51,3 +51,5 @@ permalink: /
 徳島県出身、1991年3月10日、身長188cm。血液型O型。2009年前後より、ボカロP・ハチとしてインターネットを中心に活動したあと、2012年に本人名義のアルバム『diorama』でソロデビュー。翌年、ユニバーサルシグマよりメジャーデビュー。2016年よりソニー・ミュージックレコーズへ移籍。
 
 [リンク](https://www.youtube.com/watch?v=LmZD-TU96q4)
+
+![image](/GHPages_WebSite/assets/images/
